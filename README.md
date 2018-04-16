@@ -1,1 +1,1 @@
-# muski-pwa
+# muski
